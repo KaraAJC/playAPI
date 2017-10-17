@@ -1,0 +1,25 @@
+{
+  "sayings": [
+  {
+      "id": 1,
+      "message": "Kara Codes, Did you know?"
+    },
+  {
+      "id": 2,
+      "message": "I KARA 'bout YOU"
+    }
+  ],
+  
+  "cute-pics": [
+  {
+      "id": 1,
+      "url": "http://lorempixel.com/400/200/cats/",
+      "description: "a cute kitteh": 
+    },
+  {
+      "id": 2,
+      "url": "http://lorempixel.com/400/200/cats/",
+      "description: "an even cuter kitteh":
+    },
+  ]
+}
