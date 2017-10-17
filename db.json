@@ -14,12 +14,12 @@
   {
       "id": 1,
       "url": "http://lorempixel.com/400/200/cats/",
-      "description: "a cute kitteh": 
+      "description" : "a cute kitteh": 
     },
   {
       "id": 2,
       "url": "http://lorempixel.com/400/200/cats/",
-      "description: "an even cuter kitteh":
+      "description" : "an even cuter kitteh":
     },
   ]
 }
